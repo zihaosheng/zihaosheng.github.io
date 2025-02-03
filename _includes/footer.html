@@ -1,0 +1,19 @@
+<footer class="sticky-bottom mt-5 text-center">
+    <div class="container">
+        <a href="https://www.easycounter.com/">
+            <img src="https://www.easycounter.com/counter.php?zihaosheng"
+            border="0" alt="Web Site Hit Counter"></a>
+             visitors since January 2025.
+    </div>
+    <div class="container">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.author.name }}.
+        {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+    </div>
+
+</footer>

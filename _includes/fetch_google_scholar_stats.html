@@ -17,6 +17,13 @@
                 if (countSpan) {
                     countSpan.innerText = 'Citations: ' + numCitations;
                 }
+                var scholarUrl = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user="+ data['scholar_id'] + "&citation_for_view=" + paperId;
+                var linkElement = document.createElement('a');
+                linkElement.href = scholarUrl;
+                linkElement.target = "_blank";
+                linkElement.appendChild(element.cloneNode(true));
+                element.replaceWith(linkElement);
+                
 
             });
         });

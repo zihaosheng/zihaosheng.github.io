@@ -47,7 +47,7 @@ My research interests focus on leveraging **foundation models** and **reinforcem
   <a href="https://www.huang-zilin.com/VLM-RL-website/" class="btn" role="button">Webpage</a> 
   <a href="https://arxiv.org/abs/2412.15544" class="btn" role="button">PDF</a> 
   <a href="https://github.com/zihaosheng/VLM-RL" class="btn" role="button">Code</a> 
-  [![](https://img.shields.io/github/stars/zihaosheng/VLM-RL?style=social&label=Code+Stars)](https://github.com/zihaosheng/VLM-RL)
+  [![](https://img.shields.io/github/stars/zihaosheng/VLM-RL?style=social&label=Stars)](https://github.com/zihaosheng/VLM-RL)
   </div>
 </div>
 
@@ -69,7 +69,7 @@ My research interests focus on leveraging **foundation models** and **reinforcem
   <a href="https://zihaosheng.github.io/traffic-expertise-RL/" class="btn" role="button">Webpage</a> 
   <a href="https://www.sciencedirect.com/science/article/pii/S2772424724000258" class="btn" role="button">PDF</a> 
   <a href="https://github.com/zihaosheng/traffic-expertise-RL" class="btn" role="button">Code</a> 
-  [![](https://img.shields.io/github/stars/zihaosheng/traffic-expertise-RL?style=social&label=Code+Stars)](https://github.com/zihaosheng/traffic-expertise-RL)
+  [![](https://img.shields.io/github/stars/zihaosheng/traffic-expertise-RL?style=social&label=Stars)](https://github.com/zihaosheng/traffic-expertise-RL)
   </div>
 </div>
 

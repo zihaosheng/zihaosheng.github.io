@@ -75,7 +75,7 @@ My research interests focus on leveraging **foundation models** and **reinforcem
   <div class='paper-box-image'>
     <div>
       <div class="badge">COMMTR</div>
-        <img src='images/pub-commtr.gif' alt="sym" width="100%">
+        <img src='https://zihaosheng.github.io/traffic-expertise-RL/static/images/demo.gif' alt="sym" width="100%">
       </div>
     </div>
   <div class='paper-box-text' markdown="1">

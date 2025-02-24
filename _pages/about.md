@@ -37,7 +37,7 @@ My research interests focus on leveraging **foundation models** and **reinforcem
       </div>
     </div>
   <div class='paper-box-text' markdown="1">
-  [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models]()
+  [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119)
 
   **<u>Zihao Sheng</u>**\*, Zilin Huang\*, Yansong Qu, Yue Leng, Sruthi Bhavanam, Sikai Chen
 

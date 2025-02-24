@@ -44,7 +44,8 @@ My research interests focus on leveraging **foundation models** and **reinforcem
   Preprint, 2025
 
   <a href="https://zihaosheng.github.io/CurricuVLM/" class="btn" role="button">Webpage</a> 
-  <a href="" class="btn" role="button">PDF</a> 
+  <a href="https://arxiv.org/abs/2502.15119" class="btn" role="button">PDF</a> 
+  <a href="https://github.com/zihaosheng/CurricuVLM" class="btn" role="button">Code</a> 
   </div>
 </div>
 

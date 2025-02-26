@@ -117,7 +117,7 @@ My research interests focus on leveraging **foundation models** and **reinforcem
 - *2015.09 - 2019.06*, BS, Xi'an Jiaotong University, China
 
 # 💡 Services
-- Reviewer for Conferences (TRB, ITSC, SMC) and Journals (IEEE T-ITS, T-VT, T-IV, TRR).
+- Reviewer for Conferences (TRB, ITSC, SMC) and Journals (IEEE RA-L, IEEE T-ITS, T-VT, T-IV, TRR).
 - *Spring 2025*, TA, CEE 370 Transportation Engineering, University of Wisconsin-Madison
 - *Spring 2024*, TA, CEE 370 Transportation Engineering, University of Wisconsin-Madison
 - *Fall 2020*, TA, Digital Signal Processing, Shanghai Jiao Tong University

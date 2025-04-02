@@ -8,13 +8,13 @@ author_profile: true
 # My Publications
 
 <div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
-  <h1 style="margin: 0; font-size: 1.1rem; color: #003366;">
+  <h2 style="margin: 0; font-size: 1.1rem; color: #003366;">
     📌 The list below may not be up to date — please check
     <a href="https://scholar.google.com/citations?user=3T-SILsAAAAJ" target="_blank" style="color: #007acc; text-decoration: underline;">
       Google Scholar
     </a>
     for my latest publications.
-  </h1>
+  </h2>
 </div>
 
 <h2 class="pub-year" id="y2025">2025</h2>
@@ -27,10 +27,12 @@ author_profile: true
 - Huang, Z., **<u>Sheng, Z.</u>**, Ma, C., Chen, S. (2024). [Human as AI mentor: Enhanced human-in-the-loop reinforcement learning for safe and efficient autonomous driving](https://www.sciencedirect.com/science/article/pii/S2772424724000106). *Communications in Transportation Research*.
 - Liu, C., **<u>Sheng, Z.</u>**, Li, P., Chen, S., Luo, X., Ran, B. (2024). [A distributed deep reinforcement learning-based longitudinal control strategy for connected automated vehicles combining attention mechanism](https://www.tandfonline.com/doi/abs/10.1080/19427867.2024.2335084). *Transportation Letters*.
 
-<h2 class="pub-year" id="ybefore">2023 and Earlier</h2>
+<h2 class="pub-year" id="y2023">2023</h2>
 - **<u>Sheng, Z.</u>**, Liu, L., Xue, S., Zhao, D., Jiang, M., Li, D. (2023). [A cooperation-aware lane change method for automated vehicles](https://ieeexplore.ieee.org/abstract/document/9971784). *IEEE Transactions on Intelligent Transportation Systems*. <span class="show_paper_citations" data='3T-SILsAAAAJ:qUcmZB5y_30C'><i class="fab fa-google-scholar"></i><span class="citation-count">0</span></span>
 - Liu, C., **<u>Sheng, Z.</u>**, Chen, S., Shi, H., Ran, B. (2023). [Longitudinal control of connected and automated vehicles among signalized intersections in mixed traffic flow with deep reinforcement learning approach](https://www.sciencedirect.com/science/article/pii/S0378437123007446). *Physica A: Statistical Mechanics and its Applications*.
 - Guan, Q., **<u>Sheng, Z.</u>**, Xue, S. (2023). [HRPose: Real-time high-resolution 6D pose estimation network using knowledge distillation](https://ieeexplore.ieee.org/abstract/document/10038797). *Chinese Journal of Electronics*.
+
+<h2 class="pub-year" id="ybefore">Earlier</h2>
 - **<u>Sheng, Z.</u>**, Xu, Y., Xue, S., Li, D. (2022). [Graph-based spatial-temporal convolutional network for vehicle trajectory prediction in autonomous driving](https://ieeexplore.ieee.org/abstract/document/9737058). *IEEE Transactions on Intelligent Transportation Systems*. <span class="show_paper_citations" data='3T-SILsAAAAJ:aqlVkmm33-oC'><i class="fab fa-google-scholar"></i><span class="citation-count">0</span></span>
 - **<u>Sheng, Z.</u>**, Xue, S., Xu, Y., Li, D. (2020). [Real-time queue length estimation with trajectory reconstruction using surveillance data](https://ieeexplore.ieee.org/abstract/document/9305313). In: *2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV)*.
 
@@ -39,6 +41,7 @@ author_profile: true
 <div class="year-nav">
   <a href="#y2025" class="year-link active">2025</a>
   <a href="#y2024" class="year-link">2024</a>
+  <a href="#y2023" class="year-link">2023</a>
   <a href="#ybefore" class="year-link">Earlier</a>
 </div>
 
@@ -63,7 +66,7 @@ author_profile: true
       margin: 3px 0;
       border-radius: 6px;
       text-align: center;
-      font-size: 0.95rem;
+      font-size: 1rem;
     }
     
     .year-link:hover {

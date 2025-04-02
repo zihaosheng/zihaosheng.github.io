@@ -48,7 +48,7 @@ author_profile: true
 <style>
     .year-nav {
       position: fixed;
-      top: 150px;
+      top: 200px;
       right: 30px;
       display: flex;
       flex-direction: column;

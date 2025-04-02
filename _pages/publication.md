@@ -34,6 +34,8 @@ author_profile: true
 - **<u>Sheng, Z.</u>**, Xu, Y., Xue, S., Li, D. (2022). [Graph-based spatial-temporal convolutional network for vehicle trajectory prediction in autonomous driving](https://ieeexplore.ieee.org/abstract/document/9737058). *IEEE Transactions on Intelligent Transportation Systems*. <span class="show_paper_citations" data='3T-SILsAAAAJ:aqlVkmm33-oC'><i class="fab fa-google-scholar"></i><span class="citation-count">0</span></span>
 - **<u>Sheng, Z.</u>**, Xue, S., Xu, Y., Li, D. (2020). [Real-time queue length estimation with trajectory reconstruction using surveillance data](https://ieeexplore.ieee.org/abstract/document/9305313). In: *2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV)*.
 
+
+
 <div class="year-nav">
   <a href="#y2025" class="year-link active">2025</a>
   <a href="#y2024" class="year-link">2024</a>
@@ -41,38 +43,38 @@ author_profile: true
 </div>
 
 <style>
-.year-nav {
-  position: fixed;
-  top: 150px;
-  right: 30px;
-  display: flex;
-  flex-direction: column;
-  background: #f8f9fa;
-  border-radius: 8px;
-  padding: 0.5rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  z-index: 999;
-}
-
-.year-link {
-  text-decoration: none;
-  color: #007bff;
-  padding: 0.4rem 0.8rem;
-  margin: 3px 0;
-  border-radius: 6px;
-  text-align: center;
-  font-size: 0.95rem;
-}
-
-.year-link:hover {
-  background: #e6f0ff;
-}
-
-.year-link.active {
-  background: #007bff;
-  color: white;
-  font-weight: bold;
-}
+    .year-nav {
+      position: fixed;
+      top: 150px;
+      right: 30px;
+      display: flex;
+      flex-direction: column;
+      background: #f8f9fa;
+      border-radius: 8px;
+      padding: 0.5rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      z-index: 999;
+    }
+    
+    .year-link {
+      text-decoration: none;
+      color: #007bff;
+      padding: 0.4rem 0.8rem;
+      margin: 3px 0;
+      border-radius: 6px;
+      text-align: center;
+      font-size: 0.95rem;
+    }
+    
+    .year-link:hover {
+      background: #e6f0ff;
+    }
+    
+    .year-link.active {
+      background: #007bff;
+      color: white;
+      font-weight: bold;
+    }
 </style>
 
 <script>

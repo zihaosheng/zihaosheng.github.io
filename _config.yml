@@ -154,6 +154,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll/scholar
 
 
 # HTML Compression

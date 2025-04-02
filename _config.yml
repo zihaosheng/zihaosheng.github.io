@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zihao Sheng"
-  avatar           : "images/zihao.jpg"
+  avatar           : "/images/zihao.jpg"
   bio              : "PhD Student at University of Wisconsin-Madison"
   location         : "Madison, WI, USA"
   employer         :

@@ -27,7 +27,7 @@ My research interests focus on leveraging **foundation models** and **reinforcem
 # 🔥 News
 - *2025.03*: We are invited by [Li Auto AD team](https://www.lixiang.com/en#li) to present on our latest work [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🎉🎉 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications <a href="{{ 'publications' | relative_url }}">view all</a>
 
 <div class='paper-box'>
   <div class='paper-box-image'>

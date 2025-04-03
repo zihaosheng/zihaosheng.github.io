@@ -153,14 +153,6 @@ h1:before, .anchor:before {
     color: #4285F4;
 }
 
-h2.pub-year {
-  font-size: 1.6rem;
-  font-weight: 700;
-  margin: 1.2rem 0 1.2rem;
-  color: black;
-  position: relative;
-}
-
 
 // Publications
 
@@ -179,26 +171,26 @@ h2.pub-year {
     margin-bottom: 1rem;
 
     span {
-      font-size: 1.5rem;
+      font-size: 1.6rem;
     }
   }
 
-  h2.year {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
+  h2.pub-year {
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin: 1.2rem 0 1.2rem;
+    color: black;
+    position: relative;
   }
 
   ol.bibliography {
     list-style: none;
     padding: 0;
     margin-top: 0;
+    font-size: 16px;
 
     li {
-      min-height: 110px;
+      min-height: 100px;
       margin-bottom: 0.5rem;
 
       .preview {
@@ -268,21 +260,21 @@ h2.pub-year {
 
       .links {
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
+          color: #222222;
+          border: 1px solid #222222;
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
 
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: #e03e87;
+            border-color: #e03e87;
           }
         }
       }
 
-      .hidden {
+      .abstract.hidden {
         font-size: 0.875rem;
         max-height: 0px;
         overflow: hidden;
@@ -305,7 +297,7 @@ h2.pub-year {
         }
       }
 
-      .hidden.open {
+      .abstract.hidden.open {
         max-height: 100em;
         -webkit-transition: 0.15s ease;
         -moz-transition: 0.15s ease;
@@ -315,23 +307,13 @@ h2.pub-year {
       }
 
       div.abstract.hidden {
-        border: dashed 1px var(--global-bg-color);
+        border: dashed 1px #0b0b0b;
       }
 
       div.abstract.hidden.open {
-        border-color: var(--global-text-color);
+        border-color: #0b0b0b;
       }
 
-      .teaser {
-        border-radius: 8px;
-        box-shadow: 3px 3px 6px #888;
-        height: 120px;
-        width: 180px;
-        margin-top: 5px;
-        margin-left: 5px;
-        margin-bottom: 5px;
-        object-fit: cover;
-      }
     }
   }
 }

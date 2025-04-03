@@ -166,9 +166,13 @@ compress_html:
 
 # Jekyll Scholar
 scholar:
+  last_name: Sheng
+  first_name: Zihao
+
   style: apa
   locale: en
   sort_by: year,month
   order: descending
   source: /_pages
   bibliography: publication.bib
+  bibliography_template: bib

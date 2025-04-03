@@ -8,9 +8,7 @@ author_profile: true
 # My Publications
 
 
-<div>
-{% bibliography -f publication %}
-</div>
+
 
 <div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
   <h2 style="margin: 0; font-size: 1.1rem; color: #003366;">
@@ -21,6 +19,9 @@ author_profile: true
     for my latest publications.
   </h2>
 </div>
+
+
+{% bibliography %}
 
 <h2 class="pub-year" id="y2025">2025</h2>
 - Long, K., **<u>Sheng, Z.</u>**, Shi, H., Li, X., Chen, S., Ahn, S. (2025). A physics enhanced residual learning (PERL) framework for vehicle trajectory prediction. *Communications in Transportation Research*.

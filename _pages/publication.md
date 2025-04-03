@@ -3,6 +3,8 @@ layout: default
 permalink: /publications/
 title: "Publications"
 author_profile: true
+recent_years: [2025, 2024, 2023]
+earliest_year: 2022
 ---
 
 # My Publications
@@ -21,9 +23,19 @@ author_profile: true
 </div>
 
 
-{% bibliography %}
+<div class="publications">
+  {%- for y in page.recent_years %}
+    <h2 class="pub-year" id="y{{ y }}">{{ y }}</h2>
+    {% bibliography -q @*[year={{ y }}]* %}
+  {%- endfor %}
 
-<h2 class="pub-year" id="y2025">2025</h2>
+  <h2 class="pub-year" id="ybefore">Earlier</h2>
+  {% bibliography -q @*[year<= {{ page.earliest_year }}]* %}
+</div>
+
+
+
+
 - Long, K., **<u>Sheng, Z.</u>**, Shi, H., Li, X., Chen, S., Ahn, S. (2025). A physics enhanced residual learning (PERL) framework for vehicle trajectory prediction. *Communications in Transportation Research*.
 
 <h2 class="pub-year" id="y2024">2024</h2>

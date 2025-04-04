@@ -10,6 +10,7 @@ title                    : "Zihao Sheng"
 description              : "Autonomous Driving | Foundation Models | RL"
 repository               : "zihaosheng/zihaosheng.github.io"
 google_scholar_stats_use_cdn : true
+last_updated             : true
 
 # google analytics
 google_analytics_id      : "G-47NT73NQ95" # get google_analytics_id from https://analytics.google.com/analytics/

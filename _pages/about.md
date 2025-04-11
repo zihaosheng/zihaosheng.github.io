@@ -41,7 +41,7 @@ My research interests focus on leveraging **foundation models** and **reinforcem
 
 **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sikai Chen
 
-**CVPR** WDFM-AD, 2025
+**CVPR** 2025 [WDFM-AD](https://wdfm-ad.github.io/)
 
 <a href="https://zihaosheng.github.io/Talk2Traffic/" class="btn" role="button">Webpage</a>
   </div>

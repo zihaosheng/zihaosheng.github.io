@@ -32,6 +32,24 @@ My research interests focus on leveraging **foundation models** and **reinforcem
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">CVPRW</div>
+        <img src='https://raw.githubusercontent.com/zihaosheng/Talk2Traffic/html/static/images/case2.gif' alt="sym" width="100%">
+      </div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  [Talk2Traffic: Interactive and Editable Traffic Scenario Generation for Autonomous Driving with Multimodal Large Language Model]()
+
+**<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sikai Chen
+
+**CVPR** WDFM-AD, 2025
+
+<a href="https://zihaosheng.github.io/Talk2Traffic/" class="btn" role="button">Webpage</a>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">Preprint</div>
         <img src='https://zihaosheng.github.io/CurricuVLM/static/images/case3-trained-combined.gif' alt="sym" width="100%">
       </div>

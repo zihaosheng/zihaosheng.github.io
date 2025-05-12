@@ -25,7 +25,8 @@ My research interests focus on leveraging **foundation models** and **reinforcem
 
 
 # 🔥 News
-- *2025.03*: We are invited by [Li Auto AD team](https://www.lixiang.com/en#li) to present on our latest work [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🎉🎉 
+- *2025.06*: I will attend **CVPR 2025** to present on our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/)&nbsp;🎉🎉
+- *2025.03*: We are invited by [Li Auto Autonomous Driving Team](https://www.lixiang.com/en#li) to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🎉🎉
 
 # 📝 Selected Publications <a href="{{ 'publications' | relative_url }}">view all</a>
 

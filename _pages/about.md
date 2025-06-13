@@ -38,13 +38,14 @@ My research interests focus on leveraging **foundation models** and **reinforcem
       </div>
     </div>
   <div class='paper-box-text' markdown="1">
-  [Talk2Traffic: Interactive and Editable Traffic Scenario Generation for Autonomous Driving with Multimodal Large Language Model]()
+  [Talk2Traffic: Interactive and Editable Traffic Scenario Generation for Autonomous Driving with Multimodal Large Language Model](https://openaccess.thecvf.com/content/CVPR2025W/WDFM-AD/html/Sheng_Talk2Traffic_Interactive_and_Editable_Traffic_Scenario_Generation_for_Autonomous_Driving_CVPRW_2025_paper.html)
 
 **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sikai Chen
 
 **CVPR** 2025 [WDFM-AD](https://wdfm-ad.github.io/)
 
 <a href="https://zihaosheng.github.io/Talk2Traffic/" class="btn" role="button">Webpage</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2025W/WDFM-AD/html/Sheng_Talk2Traffic_Interactive_and_Editable_Traffic_Scenario_Generation_for_Autonomous_Driving_CVPRW_2025_paper.html" class="btn" role="button">PDF</a>
   </div>
 </div>
 

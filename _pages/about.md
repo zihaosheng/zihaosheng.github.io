@@ -39,13 +39,14 @@ My research interests focus on leveraging **foundation models** and **reinforcem
       </div>
     </div>
   <div class='paper-box-text' markdown="1">
-  [SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](https://arxiv.org/abs/)
+  [SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](https://arxiv.org/abs/2508.06763)
 
 **<u>Zihao Sheng</u>**, Zilin Huang, Yen-Jung Chen, Yansong Qu, Yuhao Luo, Yue Leng, Sikai Chen
 
 Preprint, 2025
 
 <a href="https://zihaosheng.github.io/SafePLUG/" class="btn" role="button">Webpage</a>
+<a href="https://arxiv.org/abs/2508.06763" class="btn" role="button">PDF</a>
   </div>
 </div>
 

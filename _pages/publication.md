@@ -11,11 +11,7 @@ earliest_year: 2022
 
 <div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
   <h2 style="margin: 0; font-size: 1.1rem; color: #003366;">
-    📌 The list below may not be up to date — please check
-    <a href="https://scholar.google.com/citations?user=3T-SILsAAAAJ" target="_blank" style="color: #007acc; text-decoration: underline;">
-      Google Scholar
-    </a>
-    for my latest publications.
+    📌 The list below may not be up to date — please check <a href="https://scholar.google.com/citations?user=3T-SILsAAAAJ" target="_blank" style="color: #007acc; text-decoration: underline;">Google Scholar</a> for my latest publications.
   </h2>
 </div>
 

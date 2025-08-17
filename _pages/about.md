@@ -86,8 +86,7 @@ Preprint, 2025
 
   <a href="https://zihaosheng.github.io/CurricuVLM/" class="btn" role="button">Webpage</a> 
   <a href="https://arxiv.org/abs/2502.15119" class="btn" role="button">PDF</a> 
-  <a href="https://github.com/zihaosheng/CurricuVLM" class="btn" role="button">Code</a> 
-  [![](https://img.shields.io/github/stars/zihaosheng/CurricuVLM?style=social&label=Stars)](https://github.com/zihaosheng/CurricuVLM)
+  <a href="https://github.com/zihaosheng/CurricuVLM" class="btn" role="button">Code</a>
   </div>
 </div>
 
@@ -130,8 +129,7 @@ Preprint, 2025
 
   <a href="https://zihaosheng.github.io/traffic-expertise-RL/" class="btn" role="button">Webpage</a> 
   <a href="https://www.sciencedirect.com/science/article/pii/S2772424724000258" class="btn" role="button">PDF</a> 
-  <a href="https://github.com/zihaosheng/traffic-expertise-RL" class="btn" role="button">Code</a> 
-  [![](https://img.shields.io/github/stars/zihaosheng/traffic-expertise-RL?style=social&label=Stars)](https://github.com/zihaosheng/traffic-expertise-RL)
+  <a href="https://github.com/zihaosheng/traffic-expertise-RL" class="btn" role="button">Code</a>
   </div>
 </div>
 

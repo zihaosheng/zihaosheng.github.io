@@ -94,7 +94,7 @@ Preprint, 2025
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">TR-C</div>
         <img src='https://raw.githubusercontent.com/zilin-huang/VLM-RL-website/master/static/videos/CLIP/CLIP_town2_normal/CLIP_town2_normal_s6.gif' alt="sym" width="100%">
       </div>
     </div>
@@ -103,10 +103,10 @@ Preprint, 2025
 
   Zilin Huang\*, **<u>Zihao Sheng</u>**\*, Yansong Qu\*, Junwei You, Sikai Chen
 
-  Preprint, 2024
+  Transportation Research Part C: Emerging Technologies, 2025
 
   <a href="https://www.huang-zilin.com/VLM-RL-website/" class="btn" role="button">Webpage</a> 
-  <a href="https://arxiv.org/abs/2412.15544" class="btn" role="button">PDF</a> 
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X25002669" class="btn" role="button">PDF</a> 
   <a href="https://github.com/zihaosheng/VLM-RL" class="btn" role="button">Code</a> 
   [![](https://img.shields.io/github/stars/zihaosheng/VLM-RL?style=social&label=Stars)](https://github.com/zihaosheng/VLM-RL)
   </div>

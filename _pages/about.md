@@ -23,6 +23,13 @@ Hi! I am currently a Ph.D. student in Transportation Engineering at the [Univers
 
 My research centers on leveraging **foundation models** and **reinforcement learning** to enhance autonomous driving performance. I am currently interested in **multimodal large language models** and **driving world models** for safe autonomous driving.
 
+<div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
+  <p style="margin: 0; font-size: 1.05rem; color: #003366; font-weight: 400;">
+    🚀 I am currently seeking <strong>Spring/Summer 2026 internship opportunities</strong> in AI/ML and Autonomous Driving.
+    If you are aware of relevant opportunities, please feel free to <strong>contact me</strong>.
+  </p>
+</div>
+
 
 # 🔥 News
 - *2025.06*: I will attend **CVPR 2025** to present on our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/)&nbsp;🎉🎉

@@ -34,7 +34,7 @@ My research centers on leveraging **foundation models** and **reinforcement lear
 # 🔥 News
 - *2025.06*: I will attend **CVPR 2025** to present on our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/)&nbsp;🎉🎉
 - *2025.05*: Honored to be selected as one of four UW–Madison nominees for the **Google PhD Fellowship** 🙌
-- *2025.03*: We are invited by [Li Auto Autonomous Driving Team](https://www.lixiang.com/en#li) to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🎉🎉
+- *2025.03*: We are invited by a leading autonomous driving company to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🚗✨
 
 # 📝 Selected Publications <a href="{{ 'publications' | relative_url }}">view all</a>
 
@@ -143,15 +143,15 @@ Preprint, 2025
 
 
 # 🎖 Honors and Awards
-- 2025 Google PhD Fellowship – University Nominee
+- 2025 Google PhD Fellowship -- University Nominee
 - 2023 Student Research Grants Competition (SRGC) Award of University of Wisconsin-Madison
 - 2022 [Best Dissertation Award](http://sh-aa.cn/News/info.aspx?itemid=154) of Shanghai Association of Automation (SAA)
 - 2022 Outstanding Master Graduate of Shanghai Jiao Tong University
 
 # 📖 Educations
-- *2023.01 - Present*, PhD, Univerity of Wisconsin-Madison, WI, USA 
-- *2019.09 - 2022.03*, MS, Shanghai Jiao Tong University, China
-- *2015.09 - 2019.06*, BS, Xi'an Jiaotong University, China
+- *2023.01 -- Present*, PhD, Univerity of Wisconsin-Madison, WI, USA 
+- *2019.09 -- 2022.03*, MS, Shanghai Jiao Tong University, China
+- *2015.09 -- 2019.06*, BS, Xi'an Jiaotong University, China
 
 # 💡 Services
 - Reviewer for Conferences (ICCV, AAAI, ITSC, SMC, TRB) and Journals (RA-L, TR-C, T-ITS, T-VT, T-IV, T-MC, AAP).

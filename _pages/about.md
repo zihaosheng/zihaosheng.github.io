@@ -32,7 +32,7 @@ My research centers on leveraging **foundation models** and **reinforcement lear
 
 
 # 🔥 News
-- *2025.11*: Excited to start my research internship at **Bosch USA** on foundation models and autonomous driving 🤗
+- *2025.11*: Excited to start my research internship at **Bosch Research USA** on foundation models and autonomous driving 🤗
 - *2025.06*: I will attend **CVPR 2025** to present on our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/)&nbsp;🎉🎉
 - *2025.05*: Honored to be selected as one of four UW–Madison nominees for the **Google PhD Fellowship** 🙌
 - *2025.03*: We are invited by a leading autonomous driving company to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🚗✨
@@ -50,7 +50,7 @@ My research centers on leveraging **foundation models** and **reinforcement lear
   <div class='paper-box-text' markdown="1">
   [SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](https://arxiv.org/abs/2508.06763)
 
-**<u>Zihao Sheng</u>**, Zilin Huang, Yen-Jung Chen, Yansong Qu, Yuhao Luo, Yue Leng, Sikai Chen
+**<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Jiancong Chen, Yuhao Luo, Yen-Jung Chen, Yue Leng, Sikai Chen
 
 Preprint, 2025
 

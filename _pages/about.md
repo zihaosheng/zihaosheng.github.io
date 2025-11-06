@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 About Me  
 
-Hi! I am currently a Ph.D. student in Transportation Engineering at the [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). Before that, I received my master's from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).  
+Hi! I am currently a Ph.D. student at the [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). Before that, I received my master's from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).  
 
 My research centers on leveraging **foundation models** and **reinforcement learning** to enhance autonomous driving performance. I am currently interested in **multimodal large language models** and **driving world models** for safe autonomous driving.
 

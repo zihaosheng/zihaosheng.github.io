@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 About Me  
 
-Hi! I am a Ph.D. student at <img src="images/logo/uw-madison.png" width="80"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). Before that, I received my master's from <img src="images/logo/sjtu.png" width="90"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from <img src="images/logo/xjtu.png" width="85"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
+Hi! I am a Ph.D. student at <img src="images/logo/uw-madison.png" width="80"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). Before that, I received my master's from <img src="images/logo/sjtu.png" width="28"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from <img src="images/logo/xjtu.png" width="25"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
 
 I am also a research intern at <img src="images/logo/bosch.png" width="65"/> [Bosch Research North America](https://www.bosch.com/research/).
 My research centers on leveraging **foundation models** and **reinforcement learning** to enhance autonomous driving performance. I am currently interested in **multimodal large language models** and **driving world models** for safe autonomous driving.

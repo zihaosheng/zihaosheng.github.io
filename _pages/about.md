@@ -19,8 +19,9 @@ redirect_from:
 
 # 👨‍🎓 About Me  
 
-Hi! I am currently a Ph.D. student at the [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). Before that, I received my master's from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from [Xi’an Jiaotong University](http://en.xjtu.edu.cn/).  
+Hi! I am a Ph.D. student at <img src="images/logo/uw-madison.png" width="80"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). Before that, I received my master's from <img src="images/logo/sjtu.png" width="90"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from <img src="images/logo/xjtu.png" width="85"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
 
+I am also a research intern at <img src="images/logo/bosch.png" width="65"/> [Bosch Research North America](https://www.bosch.com/research/).
 My research centers on leveraging **foundation models** and **reinforcement learning** to enhance autonomous driving performance. I am currently interested in **multimodal large language models** and **driving world models** for safe autonomous driving.
 
 <div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
@@ -32,7 +33,7 @@ My research centers on leveraging **foundation models** and **reinforcement lear
 
 
 # 🔥 News
-- *2025.11*: Excited to start my research internship at **Bosch Research USA** on foundation models and autonomous driving 🤗
+- *2025.11*: Starting my research internship at **Bosch Research North America** on foundation models and autonomous driving 🤗
 - *2025.06*: I will attend **CVPR 2025** to present on our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/)&nbsp;🎉🎉
 - *2025.05*: Honored to be selected as one of four UW–Madison nominees for the **Google PhD Fellowship** 🙌
 - *2025.03*: We are invited by a leading autonomous driving company to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🚗✨

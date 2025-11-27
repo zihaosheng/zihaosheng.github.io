@@ -126,6 +126,27 @@ Preprint, 2025
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">JICV</div>
+        <img src='https://sky-lab-uw.github.io/assets/teaser/2025_huang_skydrive.gif' alt="sym" width="100%">
+      </div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  [Sky-Drive: A Distributed Multi-Agent Simulation Platform for Human-AI Collaborative and Socially-Aware Future Transportation](https://arxiv.org/abs/2504.18010)
+
+Zilin Huang\*, **<u>Zihao Sheng</u>**\*, Zhengyang Wan\*, Yansong Qu, Yuhao Luo, Boyue Wang, Pei Li, Yen-Jung Chen, Jiancong Chen, Keke Long, Jiayi Meng, Yue Leng, Sikai Chen
+
+Journal of Intelligent and Connected Vehicles, 2025
+
+<a href="https://github.com/BillWan-zzzyyy/Sky-Drive" class="btn" role="button">Webpage</a>
+<a href="https://arxiv.org/abs/2504.18010" class="btn" role="button">PDF</a>
+<a href="https://github.com/BillWan-zzzyyy/Sky-Drive" class="btn" role="button">Code</a>
+[![](https://img.shields.io/github/stars/BillWan-zzzyyy/Sky-Drive?style=social&label=Stars)](https://github.com/BillWan-zzzyyy/Sky-Drive)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">COMMTR</div>
         <img src='https://zihaosheng.github.io/traffic-expertise-RL/static/images/demo.gif' alt="sym" width="100%">
       </div>

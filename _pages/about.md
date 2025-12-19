@@ -140,7 +140,6 @@ Journal of Intelligent and Connected Vehicles, 2025
 <a href="https://github.com/BillWan-zzzyyy/Sky-Drive" class="btn" role="button">Webpage</a>
 <a href="https://arxiv.org/abs/2504.18010" class="btn" role="button">PDF</a>
 <a href="https://github.com/BillWan-zzzyyy/Sky-Drive" class="btn" role="button">Code</a>
-[![](https://img.shields.io/github/stars/BillWan-zzzyyy/Sky-Drive?style=social&label=Stars)](https://github.com/BillWan-zzzyyy/Sky-Drive)
   </div>
 </div>
 

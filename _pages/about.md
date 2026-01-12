@@ -23,6 +23,7 @@ Hi! I am a Ph.D. student at <img src="images/logo/uw-madison.png" width="80"/> [
 
 I am also a research intern at <img src="images/logo/bosch.png" width="65"/> [Bosch Research North America](https://www.bosch.com/research/).
 My research centers on leveraging foundation models and reinforcement learning to enhance autonomous driving performance. I am currently interested in multimodal large language models and driving world models for safe autonomous driving.
+Please see my [resume](assets/Zihao_Sheng_Resume.pdf) for more details.
 
 <div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
   <p style="margin: 0; font-size: 1.05rem; color: #003366; font-weight: 400;">

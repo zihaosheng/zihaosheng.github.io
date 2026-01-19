@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 title: "Publications"
 author_profile: true
-recent_years: [2025, 2024, 2023]
+recent_years: [2026, 2025, 2024, 2023]
 earliest_year: 2022
 ---
 
@@ -31,7 +31,7 @@ earliest_year: 2022
 
 <div class="year-nav">
   <a href="#y2026" class="year-link active">2026</a>
-  <a href="#y2025" class="year-link active">2025</a>
+  <a href="#y2025" class="year-link">2025</a>
   <a href="#y2024" class="year-link">2024</a>
   <a href="#y2023" class="year-link">2023</a>
   <a href="#ybefore" class="year-link">Earlier</a>

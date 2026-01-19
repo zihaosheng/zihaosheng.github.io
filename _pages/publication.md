@@ -30,6 +30,7 @@ earliest_year: 2022
 
 
 <div class="year-nav">
+  <a href="#y2026" class="year-link active">2026</a>
   <a href="#y2025" class="year-link active">2025</a>
   <a href="#y2024" class="year-link">2024</a>
   <a href="#y2023" class="year-link">2023</a>

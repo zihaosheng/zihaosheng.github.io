@@ -83,16 +83,16 @@ Preprint, 2025
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">TR-C</div>
         <img src='https://zihaosheng.github.io/CurricuVLM/static/images/case3-trained-combined.gif' alt="sym" width="100%">
       </div>
     </div>
   <div class='paper-box-text' markdown="1">
   [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119)
 
-  **<u>Zihao Sheng</u>**\*, Zilin Huang\*, Yansong Qu, Yue Leng, Sruthi Bhavanam, Sikai Chen
+  **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sruthi Bhavanam, Sikai Chen
 
-  Preprint, 2025
+Transportation Research Part C: Emerging Technologies, 2026
 
   <a href="https://zihaosheng.github.io/CurricuVLM/" class="btn" role="button">Webpage</a> 
   <a href="https://arxiv.org/abs/2502.15119" class="btn" role="button">PDF</a> 

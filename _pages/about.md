@@ -44,7 +44,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">CHAIN</div>
         <img src='images/safeplug.gif' alt="sym" width="100%">
       </div>
     </div>
@@ -53,11 +53,32 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Jiancong Chen, Yuhao Luo, Yen-Jung Chen, Yue Leng, Sikai Chen
 
-Preprint, 2025
+CHAIN, 2026
 
 <a href="https://zihaosheng.github.io/SafePLUG/" class="btn" role="button">Webpage</a>
 <a href="https://arxiv.org/abs/2508.06763" class="btn" role="button">PDF</a>
 <a href="https://github.com/zihaosheng/SafePLUG" class="btn" role="button">Code</a>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TRC</div>
+        <img src='https://zihaosheng.github.io/CurricuVLM/static/images/case3-trained-combined.gif' alt="sym" width="100%">
+      </div>
+    </div>
+  <div class='paper-box-text' markdown="1">
+  [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://zihaosheng.github.io/CurricuVLM/)
+
+  **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sruthi Bhavanam, Sikai Chen
+
+Transportation Research Part C: Emerging Technologies, 2026
+
+  <a href="https://zihaosheng.github.io/CurricuVLM/" class="btn" role="button">Webpage</a> 
+  <a href="https://arxiv.org/abs/2502.15119" class="btn" role="button">PDF</a> 
+  <a href="https://github.com/zihaosheng/CurricuVLM" class="btn" role="button">Code</a>
   </div>
 </div>
 
@@ -81,31 +102,11 @@ Preprint, 2025
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">TR-C</div>
-        <img src='https://zihaosheng.github.io/CurricuVLM/static/images/case3-trained-combined.gif' alt="sym" width="100%">
-      </div>
-    </div>
-  <div class='paper-box-text' markdown="1">
-  [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://zihaosheng.github.io/CurricuVLM/)
-
-  **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sruthi Bhavanam, Sikai Chen
-
-Transportation Research Part C: Emerging Technologies, 2026
-
-  <a href="https://zihaosheng.github.io/CurricuVLM/" class="btn" role="button">Webpage</a> 
-  <a href="https://arxiv.org/abs/2502.15119" class="btn" role="button">PDF</a> 
-  <a href="https://github.com/zihaosheng/CurricuVLM" class="btn" role="button">Code</a>
-  </div>
-</div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TR-C</div>
+      <div class="badge">TRC</div>
         <img src='https://raw.githubusercontent.com/zilin-huang/VLM-RL-website/master/static/videos/CLIP/CLIP_town2_normal/CLIP_town2_normal_s6.gif' alt="sym" width="100%">
       </div>
     </div>
@@ -177,7 +178,8 @@ Journal of Intelligent and Connected Vehicles, 2025
 - *2015.09 -- 2019.06*, BS, Xi'an Jiaotong University, China
 
 # 💡 Services
-- Reviewer for Conferences (ICCV, AAAI, ITSC, SMC, TRB) and Journals (RA-L, TR-C, T-ITS, T-VT, T-IV, T-MC, AAP).
+- Reviewer for Conferences (ICCV, AAAI, ITSC, SMC, TRB) and Journals (RA-L, TR-C, T-ITS, T-VT, T-IV, T-MC, AAP)
+- *Spring 2026*, TA, CEE 370 Transportation Engineering, University of Wisconsin-Madison
 - *Spring 2025*, TA, CEE 370 Transportation Engineering, University of Wisconsin-Madison
 - *Spring 2024*, TA, CEE 370 Transportation Engineering, University of Wisconsin-Madison
 - *Fall 2020*, TA, Digital Signal Processing, Shanghai Jiao Tong University

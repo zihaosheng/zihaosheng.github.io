@@ -41,23 +41,59 @@ My research centers on leveraging foundation models and reinforcement learning t
 # 📝 Selected Publications <a href="{{ 'publications' | relative_url }}">view all</a>
 
 
+[//]: # (<div class='paper-box'>)
+
+[//]: # (  <div class='paper-box-image'>)
+
+[//]: # (    <div>)
+
+[//]: # (      <div class="badge">Preprint</div>)
+
+[//]: # (        <img src='images/explorevla.gif' alt="sym" width="100%">)
+
+[//]: # (      </div>)
+
+[//]: # (  </div>)
+
+[//]: # (  <div class='paper-box-text' markdown="1">)
+
+[//]: # (  [ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving]&#40;https://zihaosheng.github.io/ExploreVLA&#41;)
+
+[//]: # ()
+[//]: # (  **<u>Zihao Sheng</u>**, Xin Ye, Jingru Luo, Sikai Chen, Liu Ren)
+
+[//]: # (  )
+[//]: # (  Preprint, 2026)
+
+[//]: # (  )
+[//]: # (  <a href="https://zihaosheng.github.io/ExploreVLA/" class="btn" role="button">Webpage</a>)
+
+[//]: # (  <a href="https://arxiv.org/" class="btn" role="button">PDF</a>)
+
+[//]: # (  <a href="https://github.com/zihaosheng/ExploreVLA" class="btn" role="button">Code</a>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHAIN</div>
         <img src='images/safeplug.gif' alt="sym" width="100%">
       </div>
-    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
   [SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](https://zihaosheng.github.io/SafePLUG/)
 
-**<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Jiancong Chen, Yuhao Luo, Yen-Jung Chen, Yue Leng, Sikai Chen
-
-CHAIN, 2026
-
-<a href="https://zihaosheng.github.io/SafePLUG/" class="btn" role="button">Webpage</a>
-<a href="https://arxiv.org/abs/2508.06763" class="btn" role="button">PDF</a>
-<a href="https://github.com/zihaosheng/SafePLUG" class="btn" role="button">Code</a>
+  **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Jiancong Chen, Yuhao Luo, Yen-Jung Chen, Yue Leng, Sikai Chen
+  
+  CHAIN, 2026
+  
+  <a href="https://zihaosheng.github.io/SafePLUG/" class="btn" role="button">Webpage</a>
+  <a href="https://arxiv.org/abs/2508.06763" class="btn" role="button">PDF</a>
+  <a href="https://github.com/zihaosheng/SafePLUG" class="btn" role="button">Code</a>
   </div>
 </div>
 
@@ -68,13 +104,13 @@ CHAIN, 2026
       <div class="badge">TRC</div>
         <img src='https://zihaosheng.github.io/CurricuVLM/static/images/case3-trained-combined.gif' alt="sym" width="100%">
       </div>
-    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
   [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://zihaosheng.github.io/CurricuVLM/)
 
   **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sruthi Bhavanam, Sikai Chen
 
-Transportation Research Part C: Emerging Technologies, 2026
+  Transportation Research Part C: Emerging Technologies, 2026
 
   <a href="https://zihaosheng.github.io/CurricuVLM/" class="btn" role="button">Webpage</a> 
   <a href="https://arxiv.org/abs/2502.15119" class="btn" role="button">PDF</a> 
@@ -89,16 +125,16 @@ Transportation Research Part C: Emerging Technologies, 2026
       <div class="badge">CVPRW</div>
         <img src='https://raw.githubusercontent.com/zihaosheng/Talk2Traffic/html/static/images/case2.gif' alt="sym" width="100%">
       </div>
-    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
   [Talk2Traffic: Interactive and Editable Traffic Scenario Generation for Autonomous Driving with Multimodal Large Language Model](https://zihaosheng.github.io/Talk2Traffic/)
 
-**<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sikai Chen
-
-**CVPR** 2025 [WDFM-AD](https://wdfm-ad.github.io/)
-
-<a href="https://zihaosheng.github.io/Talk2Traffic/" class="btn" role="button">Webpage</a>
-<a href="https://openaccess.thecvf.com/content/CVPR2025W/WDFM-AD/html/Sheng_Talk2Traffic_Interactive_and_Editable_Traffic_Scenario_Generation_for_Autonomous_Driving_CVPRW_2025_paper.html" class="btn" role="button">PDF</a>
+  **<u>Zihao Sheng</u>**, Zilin Huang, Yansong Qu, Yue Leng, Sikai Chen
+  
+  **CVPR** 2025 [WDFM-AD](https://wdfm-ad.github.io/)
+  
+  <a href="https://zihaosheng.github.io/Talk2Traffic/" class="btn" role="button">Webpage</a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2025W/WDFM-AD/html/Sheng_Talk2Traffic_Interactive_and_Editable_Traffic_Scenario_Generation_for_Autonomous_Driving_CVPRW_2025_paper.html" class="btn" role="button">PDF</a>
   </div>
 </div>
 
@@ -109,7 +145,7 @@ Transportation Research Part C: Emerging Technologies, 2026
       <div class="badge">TRC</div>
         <img src='https://raw.githubusercontent.com/zilin-huang/VLM-RL-website/master/static/videos/CLIP/CLIP_town2_normal/CLIP_town2_normal_s6.gif' alt="sym" width="100%">
       </div>
-    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
   [VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving](https://www.huang-zilin.com/VLM-RL-website/)
 
@@ -131,17 +167,17 @@ Transportation Research Part C: Emerging Technologies, 2026
       <div class="badge">JICV</div>
         <img src='https://sky-lab-uw.github.io/assets/teaser/2025_huang_skydrive.gif' alt="sym" width="100%">
       </div>
-    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
   [Sky-Drive: A Distributed Multi-Agent Simulation Platform for Human-AI Collaborative and Socially-Aware Future Transportation](https://sky-lab-uw.github.io/Sky-Drive-website/)
 
-Zilin Huang\*, **<u>Zihao Sheng</u>**\*, Zhengyang Wan\*, Yansong Qu, Yuhao Luo, Boyue Wang, Pei Li, Yen-Jung Chen, Jiancong Chen, Keke Long, Jiayi Meng, Yue Leng, Sikai Chen
+  Zilin Huang\*, **<u>Zihao Sheng</u>**\*, Zhengyang Wan\*, Yansong Qu, Yuhao Luo, Boyue Wang, Pei Li, Yen-Jung Chen, Jiancong Chen, Keke Long, Jiayi Meng, Yue Leng, Sikai Chen
 
-Journal of Intelligent and Connected Vehicles, 2025
+  Journal of Intelligent and Connected Vehicles, 2025
 
-<a href="https://sky-lab-uw.github.io/Sky-Drive-website/" class="btn" role="button">Webpage</a>
-<a href="https://arxiv.org/abs/2504.18010" class="btn" role="button">PDF</a>
-<a href="https://github.com/BillWan-zzzyyy/Sky-Drive" class="btn" role="button">Code</a>
+  <a href="https://sky-lab-uw.github.io/Sky-Drive-website/" class="btn" role="button">Webpage</a>
+  <a href="https://arxiv.org/abs/2504.18010" class="btn" role="button">PDF</a>
+  <a href="https://github.com/BillWan-zzzyyy/Sky-Drive" class="btn" role="button">Code</a>
   </div>
 </div>
 
@@ -151,7 +187,7 @@ Journal of Intelligent and Connected Vehicles, 2025
       <div class="badge">COMMTR</div>
         <img src='https://zihaosheng.github.io/traffic-expertise-RL/static/images/demo.gif' alt="sym" width="100%">
       </div>
-    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
   [Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control](https://zihaosheng.github.io/traffic-expertise-RL/)
 

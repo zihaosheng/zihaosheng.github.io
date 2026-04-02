@@ -49,7 +49,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 [//]: # (      <div class="badge">Preprint</div>)
 
-[//]: # (        <img src='images/explorevla.gif' alt="sym" width="100%">)
+[//]: # (        <img src='images/title.gif' alt="sym" width="100%">)
 
 [//]: # (      </div>)
 
@@ -57,7 +57,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 [//]: # (  <div class='paper-box-text' markdown="1">)
 
-[//]: # (  [ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving]&#40;https://zihaosheng.github.io/ExploreVLA&#41;)
+[//]: # (  [title]&#40;https://zihaosheng.github.io/repo&#41;)
 
 [//]: # ()
 [//]: # (  **<u>Zihao Sheng</u>**, Xin Ye, Jingru Luo, Sikai Chen, Liu Ren)
@@ -66,11 +66,11 @@ My research centers on leveraging foundation models and reinforcement learning t
 [//]: # (  Preprint, 2026)
 
 [//]: # (  )
-[//]: # (  <a href="https://zihaosheng.github.io/ExploreVLA/" class="btn" role="button">Webpage</a>)
+[//]: # (  <a href="https://zihaosheng.github.io/repo/" class="btn" role="button">Webpage</a>)
 
 [//]: # (  <a href="https://arxiv.org/" class="btn" role="button">PDF</a>)
 
-[//]: # (  <a href="https://github.com/zihaosheng/ExploreVLA" class="btn" role="button">Code</a>)
+[//]: # (  <a href="https://github.com/zihaosheng/repo" class="btn" role="button">Code</a>)
 
 [//]: # (  </div>)
 

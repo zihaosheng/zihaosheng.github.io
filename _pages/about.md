@@ -39,7 +39,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 
 # 🔥 News
-- *2025.11*: Starting my research internship at **Bosch Research** on Vision-Language-Action (VLA) models for autonomous driving 🤗
+- *2025.11*: Starting my research internship at **Bosch Research** on Vision-Language-Action (VLA) models for autonomous driving
 - *2025.06*: I will attend **CVPR 2025** to present our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/) 🎵
 - *2025.05*: Honored to be selected as one of four UW–Madison nominees for the **Google PhD Fellowship** 🙌
 - *2025.03*: We are invited by a leading autonomous driving company to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/) 🚗✨

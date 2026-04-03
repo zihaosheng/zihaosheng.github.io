@@ -21,15 +21,20 @@ redirect_from:
 
 Hi! I am a PhD candidate at <img src="images/logo/uw-madison.png" width="80"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). Before that, I received my master's from <img src="images/logo/sjtu.png" width="25"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from <img src="images/logo/xjtu.png" width="25"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
 
-I am also a research intern at <img src="images/logo/bosch.png" width="65"/> [Bosch Research North America](https://www.bosch.com/research/).
+I previously worked as a research intern at <img src="images/logo/bosch.png" width="65"/> [Bosch Research North America](https://www.bosch.com/research/).
 My research centers on leveraging foundation models and reinforcement learning to enhance autonomous driving performance. I am currently interested in multimodal large language models and driving world models for safe autonomous driving.
 
-<div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
-  <p style="margin: 0; font-size: 1.05rem; color: #003366; font-weight: 400;">
-    🚀 I am currently seeking <strong>Spring/Summer 2026 internship opportunities</strong> in AI/ML and Autonomous Driving.
-    If you are aware of relevant opportunities, please feel free to <strong>contact me</strong>.
-  </p>
-</div>
+[//]: # (<div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">)
+
+[//]: # (  <p style="margin: 0; font-size: 1.05rem; color: #003366; font-weight: 400;">)
+
+[//]: # (    🚀 I am currently seeking <strong>Spring/Summer 2026 internship opportunities</strong> in AI/ML and Autonomous Driving.)
+
+[//]: # (    If you are aware of relevant opportunities, please feel free to <strong>contact me</strong>.)
+
+[//]: # (  </p>)
+
+[//]: # (</div>)
 
 
 # 🔥 News
@@ -41,47 +46,32 @@ My research centers on leveraging foundation models and reinforcement learning t
 # 📝 Selected Publications <a href="{{ 'publications' | relative_url }}">view all</a>
 
 
-[//]: # (<div class='paper-box'>)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Preprint</div>
+        <img src='images/explorevla.gif' alt="sym" width="100%">
+      </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving](https://zihaosheng.github.io/ExploreVLA)
 
-[//]: # (  <div class='paper-box-image'>)
+  **<u>Zihao Sheng</u>**, Xin Ye, Jingru Luo, Sikai Chen, Liu Ren
 
-[//]: # (    <div>)
+  Preprint, 2026
 
-[//]: # (      <div class="badge">Preprint</div>)
-
-[//]: # (        <img src='images/title.gif' alt="sym" width="100%">)
-
-[//]: # (      </div>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class='paper-box-text' markdown="1">)
-
-[//]: # (  [title]&#40;https://zihaosheng.github.io/repo&#41;)
-
-[//]: # ()
-[//]: # (  **<u>Zihao Sheng</u>**, Xin Ye, Jingru Luo, Sikai Chen, Liu Ren)
-
-[//]: # (  )
-[//]: # (  Preprint, 2026)
-
-[//]: # (  )
-[//]: # (  <a href="https://zihaosheng.github.io/repo/" class="btn" role="button">Webpage</a>)
-
-[//]: # (  <a href="https://arxiv.org/" class="btn" role="button">PDF</a>)
-
-[//]: # (  <a href="https://github.com/zihaosheng/repo" class="btn" role="button">Code</a>)
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
+  <a href="https://zihaosheng.github.io/ExploreVLA/" class="btn" role="button">Webpage</a>
+  <a href="https://arxiv.org/" class="btn" role="button">PDF</a>
+  <a href="https://github.com/zihaosheng/ExploreVLA" class="btn" role="button">Code</a>
+  </div>
+</div>
 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHAIN</div>
-        <img src='images/safeplug.gif' alt="sym" width="100%">
+        <img src='https://zihaosheng.github.io/SafePLUG/static/images/fig2.svg' alt="sym" width="100%">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -123,7 +113,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPRW</div>
-        <img src='https://raw.githubusercontent.com/zihaosheng/Talk2Traffic/html/static/images/case2.gif' alt="sym" width="100%">
+        <img src='https://zihaosheng.github.io/Talk2Traffic/static/images/fig2.svg' alt="sym" width="100%">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -178,26 +168,6 @@ My research centers on leveraging foundation models and reinforcement learning t
   <a href="https://sky-lab-uw.github.io/Sky-Drive-website/" class="btn" role="button">Webpage</a>
   <a href="https://arxiv.org/abs/2504.18010" class="btn" role="button">PDF</a>
   <a href="https://github.com/BillWan-zzzyyy/Sky-Drive" class="btn" role="button">Code</a>
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">COMMTR</div>
-        <img src='https://zihaosheng.github.io/traffic-expertise-RL/static/images/demo.gif' alt="sym" width="100%">
-      </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control](https://zihaosheng.github.io/traffic-expertise-RL/)
-
-  **<u>Zihao Sheng</u>**, Zilin Huang, Sikai Chen
-
-  Communications in Transportation Research, 2024
-
-  <a href="https://zihaosheng.github.io/traffic-expertise-RL/" class="btn" role="button">Webpage</a> 
-  <a href="https://arxiv.org/abs/2408.17380" class="btn" role="button">PDF</a> 
-  <a href="https://github.com/zihaosheng/traffic-expertise-RL" class="btn" role="button">Code</a>
   </div>
 </div>
 

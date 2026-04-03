@@ -173,10 +173,11 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 
 # 🎖 Honors and Awards
-- 2025 Google PhD Fellowship -- University Nominee
-- 2023 Student Research Grants Competition (SRGC) Award of University of Wisconsin-Madison
-- 2022 [Best Dissertation Award](http://sh-aa.cn/News/info.aspx?itemid=154) of Shanghai Association of Automation (SAA)
-- 2022 Outstanding Master Graduate of Shanghai Jiao Tong University
+- 2025 **Google PhD Fellowship** (one of four UW–Madison nominees), University of Wisconsin–Madison
+- 2023 **Student Research Grants Competition (SRGC) Award**, University of Wisconsin--Madison
+- 2023 **Best Presentation Award**, 3rd Annual Conference of Next-Generation Transportation Systems
+- 2022 **[Best Dissertation Award](http://sh-aa.cn/News/info.aspx?itemid=154)**, Shanghai Association of Automation (SAA)
+- 2022 **Outstanding Master’s Graduate Award**, Shanghai Jiao Tong University
 
 # 📖 Educations
 - *2023.01 -- Present*, PhD, Univerity of Wisconsin-Madison, WI, USA 

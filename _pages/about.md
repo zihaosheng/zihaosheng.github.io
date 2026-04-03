@@ -19,7 +19,8 @@ redirect_from:
 
 # 👨‍🎓 About Me  
 
-Hi! I am a PhD candidate at <img src="images/logo/uw-madison.png" width="80"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://sky-lab-uw.github.io/). I previously worked as a research intern at <img src="images/logo/bosch.png" width="65"/> [Bosch Research North America](https://www.bosch.com/research/). Before that, I received my master's from <img src="images/logo/sjtu.png" width="25"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and bachelor's from <img src="images/logo/xjtu.png" width="25"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
+Hi! I am a PhD candidate at the <img src="images/logo/uw-madison.png" width="15"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://scholar.google.com/citations?user=DPN2wc4AAAAJ&hl=en) in <img src="images/logo/sky-lab.jpg" width="25"/> [Sky-Lab](https://sky-lab-uw.github.io). I previously worked as a research intern at <img src="images/logo/bosch.png" width="26"/> [Bosch Research](https://www.bosch.com/research/). 
+I received my M.Eng. from <img src="images/logo/sjtu.png" width="25"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and B.Eng. from <img src="images/logo/xjtu.png" width="25"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
 
 My research centers on leveraging foundation models and reinforcement learning to enhance autonomous driving performance. I am currently interested in multimodal large language models and driving world models for safe autonomous driving.
 
@@ -37,10 +38,10 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 
 # 🔥 News
-- *2025.11*: Starting my research internship at **Bosch Research North America** on foundation models and autonomous driving 🤗
-- *2025.06*: I will attend **CVPR 2025** to present on our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/)&nbsp;🎉🎉
+- *2025.11*: Starting my research internship at **Bosch Research** on Vision-Language-Action (VLA) models for autonomous driving 🤗
+- *2025.06*: I will attend **CVPR 2025** to present our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/) 🎵
 - *2025.05*: Honored to be selected as one of four UW–Madison nominees for the **Google PhD Fellowship** 🙌
-- *2025.03*: We are invited by a leading autonomous driving company to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/)&nbsp;🚗✨
+- *2025.03*: We are invited by a leading autonomous driving company to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/) 🚗✨
 
 # 📝 Selected Publications <a href="{{ 'publications' | relative_url }}">view all</a>
 
@@ -179,9 +180,9 @@ My research centers on leveraging foundation models and reinforcement learning t
 - 2022 **Outstanding Master’s Graduate Award**, Shanghai Jiao Tong University
 
 # 📖 Educations
-- *2023.01 -- Present*, PhD, Univerity of Wisconsin-Madison, WI, USA 
-- *2019.09 -- 2022.03*, MS, Shanghai Jiao Tong University, China
-- *2015.09 -- 2019.06*, BS, Xi'an Jiaotong University, China
+- *2023.01 -- Present*, Ph.D., Univerity of Wisconsin-Madison, WI, USA 
+- *2019.09 -- 2022.03*, M.Eng., Shanghai Jiao Tong University, China
+- *2015.09 -- 2019.06*, B.Eng., Xi'an Jiaotong University, China
 
 # 💡 Services
 - Reviewer for Conferences (ICCV, AAAI, ITSC, SMC, TRB) and Journals (RA-L, TR-C, T-ITS, T-VT, T-IV, T-MC, AAP)

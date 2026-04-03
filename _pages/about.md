@@ -71,7 +71,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHAIN</div>
-        <img src='https://zihaosheng.github.io/SafePLUG/static/images/fig2.svg' alt="sym" width="100%">
+        <img src='https://zihaosheng.github.io/SafePLUG/static/images/fig1.svg' alt="sym" width="100%">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">

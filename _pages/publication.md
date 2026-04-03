@@ -3,15 +3,15 @@ layout: default
 permalink: /publications/
 title: "Publications"
 author_profile: true
-recent_years: [2026, 2025, 2024, 2023]
-earliest_year: 2022
+recent_years: [2026, 2025, 2024]
+earliest_year: 2023
 ---
 
-# My Publications
+# Publications
 
 <div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
   <h2 style="margin: 0; font-size: 1.1rem; color: #003366;">
-    📌 The list below may not be up to date — please check <a href="https://scholar.google.com/citations?user=3T-SILsAAAAJ" target="_blank" style="color: #007acc; text-decoration: underline;">Google Scholar</a> for my latest publications.
+    📌 The list below may not be up to date, please check <a href="https://scholar.google.com/citations?user=3T-SILsAAAAJ" target="_blank" style="color: #007acc; text-decoration: underline;">Google Scholar</a> for the latest publications.
   </h2>
 </div>
 
@@ -33,7 +33,6 @@ earliest_year: 2022
   <a href="#y2026" class="year-link active">2026</a>
   <a href="#y2025" class="year-link">2025</a>
   <a href="#y2024" class="year-link">2024</a>
-  <a href="#y2023" class="year-link">2023</a>
   <a href="#ybefore" class="year-link">Earlier</a>
 </div>
 

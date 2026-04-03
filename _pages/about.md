@@ -19,8 +19,9 @@ redirect_from:
 
 # 👨‍🎓 About Me  
 
-Hi! I am a PhD candidate at the <img src="images/logo/uw-madison.png" width="15"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://scholar.google.com/citations?user=DPN2wc4AAAAJ&hl=en) in <img src="images/logo/sky-lab.jpg" width="25"/> [Sky-Lab](https://sky-lab-uw.github.io). I previously worked as a research intern at <img src="images/logo/bosch.png" width="26"/> [Bosch Research](https://www.bosch.com/research/). 
-I received my M.Eng. from <img src="images/logo/sjtu.png" width="25"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and B.Eng. from <img src="images/logo/xjtu.png" width="25"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
+I am a PhD candidate at the <img src="images/logo/uw-madison.png" draggable="false" width="15"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://scholar.google.com/citations?user=DPN2wc4AAAAJ) in the <img src="images/logo/sky-lab.jpg" draggable="false" width="25"/> [Sky-Lab](https://sky-lab-uw.github.io). 
+I previously worked as a research intern at <img src="images/logo/bosch.png" draggable="false" width="26"/> [Bosch Research](https://www.bosch.com/research/). 
+I received my M.Eng. from <img src="images/logo/sjtu.png" draggable="false" width="25"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and B.Eng. from <img src="images/logo/xjtu.png" draggable="false" width="25"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
 
 My research centers on leveraging foundation models and reinforcement learning to enhance autonomous driving performance. I am currently interested in multimodal large language models and driving world models for safe autonomous driving.
 
@@ -50,7 +51,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">Preprint</div>
-        <img src='images/explorevla.gif' alt="sym" width="100%">
+        <img src='images/explorevla.gif' alt="sym" width="100%" draggable="false">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -71,7 +72,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHAIN</div>
-        <img src='https://zihaosheng.github.io/SafePLUG/static/images/fig1.svg' alt="sym" width="100%">
+        <img src='https://zihaosheng.github.io/SafePLUG/static/images/fig1.svg' alt="sym" width="100%" draggable="false">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -92,7 +93,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">TRC</div>
-        <img src='https://zihaosheng.github.io/CurricuVLM/static/images/case3-trained-combined.gif' alt="sym" width="100%">
+        <img src='https://zihaosheng.github.io/CurricuVLM/static/images/case3-trained-combined.gif' alt="sym" width="100%" draggable="false">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -113,7 +114,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPRW</div>
-        <img src='https://zihaosheng.github.io/Talk2Traffic/static/images/fig2.svg' alt="sym" width="100%">
+        <img src='https://zihaosheng.github.io/Talk2Traffic/static/images/fig2.svg' alt="sym" width="100%" draggable="false">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -133,7 +134,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">TRC</div>
-        <img src='https://raw.githubusercontent.com/zilin-huang/VLM-RL-website/master/static/videos/CLIP/CLIP_town2_normal/CLIP_town2_normal_s6.gif' alt="sym" width="100%">
+        <img src='https://raw.githubusercontent.com/zilin-huang/VLM-RL-website/master/static/videos/CLIP/CLIP_town2_normal/CLIP_town2_normal_s6.gif' alt="sym" width="100%" draggable="false">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -155,7 +156,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">JICV</div>
-        <img src='https://sky-lab-uw.github.io/assets/teaser/2025_huang_skydrive.gif' alt="sym" width="100%">
+        <img src='https://sky-lab-uw.github.io/assets/teaser/2025_huang_skydrive.gif' alt="sym" width="100%" draggable="false">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">

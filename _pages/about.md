@@ -173,7 +173,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 
 # 🎖 Honors and Awards
-- 2025 Google PhD Fellowship (one of four UW–Madison nominees), University of Wisconsin–Madison
+- 2025 Google PhD Fellowship Nominee, University of Wisconsin–Madison
 - 2023 Student Research Grants Competition (SRGC) Award, University of Wisconsin--Madison
 - 2023 Best Presentation Award, 3rd Annual Conference of Next-Generation Transportation Systems
 - 2022 [Best Dissertation Award](http://sh-aa.cn/News/info.aspx?itemid=154), Shanghai Association of Automation (SAA)

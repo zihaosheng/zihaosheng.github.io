@@ -62,7 +62,6 @@ My research centers on leveraging foundation models and reinforcement learning t
   Preprint, 2026
 
   <a href="https://zihaosheng.github.io/ExploreVLA/" class="btn" role="button">Webpage</a>
-  <a href="https://arxiv.org/" class="btn" role="button">PDF</a>
   </div>
 </div>
 

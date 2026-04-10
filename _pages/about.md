@@ -154,7 +154,7 @@ My research centers on leveraging foundation models and reinforcement learning t
   <div class='paper-box-image'>
     <div>
       <div class="badge">JICV</div>
-        <img src='https://sky-lab-uw.github.io/assets/teaser/2025_huang_skydrive.gif' alt="sym" width="100%" draggable="false">
+        <img src='https://www.zhengyangwan.com/assets/img/publication_preview/skydrive_new.webp' alt="sym" width="100%" draggable="false">
       </div>
   </div>
   <div class='paper-box-text' markdown="1">

@@ -175,6 +175,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 # 🎖 Honors and Awards
 - 2025 Google PhD Fellowship Nominee, University of Wisconsin–Madison
 - 2025 NVIDIA Academic Grant Program Award Winner
+- 2024, 2025 [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:000770592800001) (Top 1% in Engineering)
 - 2023 Student Research Grants Competition (SRGC) Award, University of Wisconsin--Madison
 - 2023 Best Presentation Award, 3rd Annual Conference of Next-Generation Transportation Systems
 - 2022 [Best Dissertation Award](http://sh-aa.cn/News/info.aspx?itemid=154), Shanghai Association of Automation (SAA)

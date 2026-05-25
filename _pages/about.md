@@ -19,9 +19,10 @@ redirect_from:
 
 # 👨‍🎓 About Me  
 
-I am a PhD candidate at the <img src="images/logo/uw-madison.png" draggable="false" width="15"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://scholar.google.com/citations?user=DPN2wc4AAAAJ) in <img src="images/logo/sky-lab.jpg" draggable="false" width="28"/> [Sky-Lab](https://sky-lab-uw.github.io). 
-I also worked as a research intern at <img src="images/logo/bosch.png" draggable="false" width="26"/> [Bosch Research](https://www.bosch.com/research/). 
-I received my M.Eng. from <img src="images/logo/sjtu.png" draggable="false" width="25"/> [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and B.Eng. from <img src="images/logo/xjtu.png" draggable="false" width="25"/> [Xi’an Jiaotong University](http://en.xjtu.edu.cn/). 
+I am a PhD candidate at the <img src="images/logo/uw-madison.png" draggable="false" width="15"/> [University of Wisconsin-Madison](https://www.wisc.edu/), advised by [Prof. Sikai Chen](https://scholar.google.com/citations?user=DPN2wc4AAAAJ) in <img src="images/logo/sky-lab.jpg" draggable="false" width="28"/> [Sky-Lab](https://sky-lab-uw.github.io).
+I am currently a deep learning intern at <img src="images/logo/nvidia.png" draggable="false" width="26"/> [NVIDIA](https://www.nvidia.com/) and previously worked as a research intern at <img src="images/logo/bosch.png" draggable="false" width="26"/> [Bosch Research](https://www.bosch.com/research/). 
+
+[//]: # (I received my M.Eng. from <img src="images/logo/sjtu.png" draggable="false" width="25"/> [Shanghai Jiao Tong University]&#40;https://en.sjtu.edu.cn/&#41; and B.Eng. from <img src="images/logo/xjtu.png" draggable="false" width="25"/> [Xi’an Jiaotong University]&#40;http://en.xjtu.edu.cn/&#41;. )
 
 My research centers on leveraging foundation models and reinforcement learning to enhance autonomous driving performance. I am currently interested in multimodal large language models and driving world models for safe autonomous driving.
 
@@ -39,7 +40,8 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 
 # 🔥 News
-- *2025.11*: Starting my research internship at **Bosch Research** on Vision-Language-Action (VLA) models for autonomous driving
+- *2026.05*: Joining **NVIDIA** as a deep learning intern for autonomous vehicles
+- *2025.11*: Starting a research internship at **Bosch Research** on Vision-Language-Action (VLA) models
 - *2025.06*: I will attend **CVPR 2025** to present our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/) 🎵
 - *2025.05*: Honored to be selected as one of four UW–Madison nominees for the **Google PhD Fellowship** 🙌
 - *2025.03*: We are invited by a leading autonomous driving company to give a talk on our recent project [VLM-RL](https://www.huang-zilin.com/VLM-RL-website/) 🚗✨

@@ -40,6 +40,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 
 
 # 🔥 News
+- *2026.06*: [ExploreVLA](https://zihaosheng.github.io/ExploreVLA/) has been accepted by **ECCV 2026**, see you in Sweden
 - *2026.05*: Joining **NVIDIA** as a deep learning intern for autonomous vehicles
 - *2025.11*: Starting a research internship at **Bosch Research** on Vision-Language-Action (VLA) models
 - *2025.06*: I will attend **CVPR 2025** to present our latest work [Talk2Traffic](https://zihaosheng.github.io/Talk2Traffic/) 🎵
@@ -52,7 +53,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Preprint</div>
+      <div class="badge">ECCV</div>
         <img src='images/explorevla.gif' alt="sym" width="100%" draggable="false">
       </div>
   </div>
@@ -61,7 +62,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 
   **<u>Zihao Sheng</u>**, Xin Ye, Jingru Luo, Sikai Chen, Liu Ren
 
-  Preprint, 2026
+  **<span style="color:red">European Conference on Computer Vision (ECCV) 2026</span>**
 
   <a href="https://zihaosheng.github.io/ExploreVLA/" class="btn" role="button">Webpage</a>
   <a href="https://arxiv.org/abs/2604.02714" class="btn" role="button">PDF</a>

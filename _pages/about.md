@@ -66,6 +66,7 @@ My research centers on leveraging foundation models and reinforcement learning t
 
   <a href="https://zihaosheng.github.io/ExploreVLA/" class="btn" role="button">Webpage</a>
   <a href="https://arxiv.org/abs/2604.02714" class="btn" role="button">PDF</a>
+  <a href="https://github.com/zihaosheng/ExploreVLA" class="btn" role="button">Code</a>
   </div>
 </div>
 
